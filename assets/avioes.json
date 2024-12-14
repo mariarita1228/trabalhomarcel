@@ -1,0 +1,40 @@
+{
+  "companhias": [
+    {
+      "nome": "Gol",
+      "avioes": [
+        { "modelo": "Boeing 737-800", "capacidade": 186, "alcance": 5420 },
+        { "modelo": "Boeing 737 MAX 8", "capacidade": 186, "alcance": 6570 },
+        { "modelo": "Embraer E195", "capacidade": 120, "alcance": 2500 }
+      ]
+    },
+    {
+      "nome": "Emirates",
+      "avioes": [
+        { "modelo": "Airbus A380", "capacidade": 853, "alcance": 15000 },
+        { "modelo": "Boeing 777-300ER", "capacidade": 396, "alcance": 13650 }
+      ]
+    },
+    {
+      "nome": "LATAM",
+      "avioes": [
+        { "modelo": "Airbus A320", "capacidade": 180, "alcance": 6100 },
+        { "modelo": "Boeing 787-9", "capacidade": 296, "alcance": 14140 }
+      ]
+    },
+    {
+      "nome": "Qatar Airways",
+      "avioes": [
+        { "modelo": "Boeing 787-8", "capacidade": 254, "alcance": 13620 },
+        { "modelo": "Airbus A350-1000", "capacidade": 350, "alcance": 16100 }
+      ]
+    },
+    {
+      "nome": "Azul",
+      "avioes": [
+        { "modelo": "Embraer E195-E2", "capacidade": 136, "alcance": 4800 },
+        { "modelo": "Airbus A330-900neo", "capacidade": 287, "alcance": 13334 }
+      ]
+    }
+  ]
+}
